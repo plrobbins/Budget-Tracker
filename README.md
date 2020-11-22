@@ -4,9 +4,8 @@ This budget tracker will allow the user to user the application offline. The use
 ## Technologies Used
 HTML, CSS, JavaScript, MongoDB, Mongoose NPM Packages: Express, Morgan, Mongoose
 
-Output
-
+## Output
 Deployed App: https://rocky-eyrie-42315.herokuapp.com/
 
 ## Budget Tracker Screenshot
-![Budget Tracker]()
+![Budget Tracker](https://github.com/plrobbins/Budget-Tracker/blob/main/public/icons/Budget%20Tracker.png)
